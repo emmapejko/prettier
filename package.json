@@ -1,0 +1,9 @@
+{
+    "name": "@emmapejko/prettier",
+    "version": "1.0.0",
+    "description": "Prettier Config",
+    "main": "index.json",
+    "repository": "git@github.com:emmapejko/prettier.git",
+    "author": "Emma Pejko",
+    "license": "MIT"
+  }
